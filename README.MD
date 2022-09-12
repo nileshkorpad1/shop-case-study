@@ -6,10 +6,24 @@
 - Npm version ^5.x and up
 
 ## 1. Clone Repo
+ ### Together
 ```
-$ https://github.com/nileshkorpad1/shop-case-study
+$ git clone https://github.com/nileshkorpad1/shop-case-study
 $ cd shop-case-study
 ```
+
+### Front End
+```
+$ git clone https://github.com/nileshkorpad1/eshop-react
+$ cd eshop-react
+```
+
+### Back End
+```
+$ git clone https://github.com/nileshkorpad1/eshop-node
+$ cd eshop-node
+```
+
 ## 2. Create an .env file in the root backend folder
 - Duplicate the .env-template file and rename it to .env
 - Get the MongoDb connection string from the MongoDb Atlas instance or an admin with access to the database and update the MONGO_DB_URI variable
