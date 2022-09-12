@@ -10,6 +10,14 @@
  - Front End (Netlify) : https://super-marshmallow-d92002.netlify.app
  - Back End (Heroku): https://dotcomputershop.herokuapp.com
  - Mongo DB: https://cloud.mongodb.com
+ 
+ ## Login Details
+ ### Admin
+    - username: admin
+    - password: password
+ ### User
+   - username: johndoe
+   - password: password
 
 ## 1. Clone Repo
  ### Together
