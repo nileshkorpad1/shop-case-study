@@ -155,3 +155,4 @@ $ cd eshop-node
 
 ## TBD
 - Test cases
+- Paypal payment
