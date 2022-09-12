@@ -7,7 +7,7 @@
 
 ## Deployments
 
- - Front End (Netlify) : https://chic-profiterole-02b0a2.netlify.app
+ - Front End (Netlify) : https://super-marshmallow-d92002.netlify.app
  - Back End (Heroku): https://dotcomputershop.herokuapp.com
  - Mongo DB: https://cloud.mongodb.com
 
