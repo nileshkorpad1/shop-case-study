@@ -12,12 +12,16 @@
  - Mongo DB: https://cloud.mongodb.com
  
  ## Login Details
- ### Admin
+ #### Admin
+ ```
     - username: admin
     - password: password
- ### User
+  ```
+ #### User
+```
    - username: johndoe
    - password: password
+  ``` 
 
 ## 1. Clone Repo
  ### Together
