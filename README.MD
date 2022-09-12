@@ -5,6 +5,9 @@
 - Node version ^16.x and up
 - Npm version ^5.x and up
 
+## Sub Repositories
+- Front End: **https://github.com/nileshkorpad1/eshop-react**
+- Backed End: **https://github.com/nileshkorpad1/eshop-node**
 ## Deployments
 
  - Front End (Netlify) : https://super-marshmallow-d92002.netlify.app
